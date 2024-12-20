@@ -53,7 +53,7 @@ const Module = (() => {
   
   // Instancias
   const musicPlayer = new Reproductor(
-    "https://www.youtube.com/embed/p3j2NYZ8FKs", // URL de música
+    "https://www.youtube.com/embed/M4d20Tyzlv0&list=RDGMEMQ1dJ7wXfLlqCjwV0xfSNbA&index=3", // URL de música
     "musica"
   );
   const moviePlayer = new Reproductor(
